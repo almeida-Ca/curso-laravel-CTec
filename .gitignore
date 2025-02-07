@@ -1,0 +1,14 @@
+node_modules
+node_modules
+/vendor
+/public/storage
+/storage/*.key
+/storage/oauth-private.key
+/storage/oauth-public.key
+/storage/*.log
+/storage/framework/*
+/storage/logs/*
+/bootstrap/cache/*
+.env
+.env.*
+.phpunit.result.cache

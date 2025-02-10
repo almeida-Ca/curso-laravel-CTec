@@ -1,15 +1,13 @@
-<script setup>
-
-
-
-</script>
-
 <template>
-<TextInput/>
 
+  
   
 
 </template>
+
+<script setup>
+
+</script>
 
 <style scoped>
 

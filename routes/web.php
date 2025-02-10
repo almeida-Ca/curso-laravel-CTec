@@ -7,7 +7,5 @@ use Inertia\Inertia;
 use App\Http\Controllers\loginController;
 
 Route::get('/', function () {
-    return Inertia::render('login/Login' );
+    return Inertia::render('App');
 });
-
-Route::post('login', [loginController::class, 'logar']);
